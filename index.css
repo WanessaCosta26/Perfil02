@@ -31,6 +31,7 @@ h1 {color: rgb(18, 231, 221);}
 
 nav a:hover {color: purple;}
 
+
 h1 {padding: 1px 40px; text-decoration: underline;}
 h2 {padding: 1px 40px; text-decoration: square;}
 h3 {padding: 1px 40px; text-decoration: square;}
@@ -63,6 +64,9 @@ text-align: center;}
 
  @media screen and (max-width:490px) {
     .main.section.h4{margin-left: 10px;}
+@media screen and (max-width:490px) {
+    nav a {margin-left: 10px; width: 10px; 
+height:10px;}
 
     .div class.container
 {max-resolution: 100%;}    
